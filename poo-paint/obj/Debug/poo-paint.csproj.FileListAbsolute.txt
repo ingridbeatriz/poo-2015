@@ -1,0 +1,11 @@
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\bin\Debug\poo-paint.exe.config
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\bin\Debug\poo-paint.exe
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\bin\Debug\poo-paint.pdb
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\obj\Debug\poo-paint.csprojResolveAssemblyReference.cache
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\obj\Debug\poo_paint.AreaDeDesenho.resources
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\obj\Debug\poo-paint.csproj.GenerateResource.Cache
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\obj\Debug\poo-paint.exe
+C:\Users\31410603\Desktop\POO\poo-2015-solucao-master\poo-paint\poo-paint\obj\Debug\poo-paint.pdb
+C:\Users\31410603\Source\Repos\poo-2015\poo-paint\bin\Debug\poo-paint.exe.config
+C:\Users\31410603\Source\Repos\poo-2015\poo-paint\obj\Debug\poo-paint.exe
+C:\Users\31410603\Source\Repos\poo-2015\poo-paint\obj\Debug\poo-paint.pdb
